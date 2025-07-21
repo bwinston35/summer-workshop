@@ -1,0 +1,11 @@
+# Site settings
+
+title: Great New Blog Title
+author:
+  name: Bryan Winston
+  email: bryan.winston@princeton.edu
+description: Great site about Jekyll on GitHub Pages
+
+# Build settings
+
+remote_theme: jekyll/minima
